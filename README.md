@@ -50,7 +50,7 @@ Usar lógica, código e análise para encontrar soluções.
 <p>  🔐 <a href="https://www.credly.com/badges/34e0f310-8fdc-404e-9d35-b9d94c8ebb4b/linked_in_profile">Introduction to Cybersecurity</a><br>
    🛡️ <a href="https://www.credly.com/badges/dddcc585-6dfe-40b1-82bd-c349846123d1/linked_in_profile">Ethical Hacker</a><br>
 </p>
-☁️ <a href="https://www.credly.com/badges/dddcc585-6dfe-40b1-82bd-c349846123d1/linked_in_profile">AWS Security Best Practices</a><br>
+☁️ <a href="https://github.com/paloma895/paloma895/blob/main/AWS%20Security.pdf">AWS Security Best Practices</a><br>
 
 #### 📊 Dados
 - Data Analytics Essentials — Cisco Networking Academy  
