@@ -6,6 +6,7 @@
 <!-- Texto digitando animado (Iniciando) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D8CED&center=true&vCenter=true&width=600&lines=Iniciando+sistema...;Verificando+credenciais...;Conectando+projetos...;Acesso+liberado.;Bem-vindo+ao+meu+mundo!" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -41,20 +42,24 @@ Usar lógica, código e análise para encontrar soluções.
           <a href="mailto:palomaaraujo4509@gmail.com">
          <img src="https://img.shields.io/badge/Gmail-4824D6?style=for-the-badge&logo=gmail&logoColor=white" />
          </a>
-  
+</p>
 ---
 ### 🏆 Certificações
 
 #### 🔐 Segurança
 
-<p>  🔐 <a href="https://www.credly.com/badges/34e0f310-8fdc-404e-9d35-b9d94c8ebb4b/linked_in_profile">Introduction to Cybersecurity</a><br>
-   🛡️ <a href="https://www.credly.com/badges/dddcc585-6dfe-40b1-82bd-c349846123d1/linked_in_profile">Ethical Hacker</a><br>
+<p> 
+🔑 <a href="https://www.credly.com/badges/34e0f310-8fdc-404e-9d35-b9d94c8ebb4b/linked_in_profile">Introduction to Cybersecurity - Cisco Networking Academy</a><br>
+🛡️ <a href="https://www.credly.com/badges/dddcc585-6dfe-40b1-82bd-c349846123d1/linked_in_profile">Ethical Hacker - Cisco Networking Academy</a><br>
+☁️ <a href="https://github.com/paloma895/paloma895/blob/main/AWS%20Security.pdf?raw=true">AWS Security Best Practices - AWS</a><br>
 </p>
-☁️ <a href="https://github.com/paloma895/paloma895/blob/main/AWS%20Security.pdf">AWS Security Best Practices</a><br>
 
 #### 📊 Dados
-- Data Analytics Essentials — Cisco Networking Academy  
-- Data Science Essentials with Python — Cisco Networking Academy
+
+<p>
+📈 <a href="https://www.credly.com/badges/c911b835-eda7-4637-b618-7bf82b1c955a/linked_in_profile">Data Analytics Essentials - Cisco Networking Academy</a><br>
+🐍 <a href="https://www.credly.com/badges/027455c5-6a32-4eb1-b918-0757556fb7c6">Data Science Essentials With Python - Cisco Networking Academy</a><br>
+</p>
 
 ---
 
@@ -84,5 +89,6 @@ Usar lógica, código e análise para encontrar soluções.
 ---
 
 <!-- Texto digitando animado (Finalizando) -->
-<p align="center"</p>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D8CED&center=true&vCenter=true&width=600&lines=Encerrando+sistema...;Armazenando+logs...;Sistema+encerrado." alt="Typing SVG" />
+</p>
