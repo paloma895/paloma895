@@ -43,7 +43,9 @@ Usar lógica, código e análise para encontrar soluções.
          <img src="https://img.shields.io/badge/Gmail-4824D6?style=for-the-badge&logo=gmail&logoColor=white" />
          </a>
 </p>
+
 ---
+
 ### 🏆 Certificações
 
 #### 🔐 Segurança
